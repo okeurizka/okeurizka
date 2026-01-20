@@ -30,7 +30,7 @@
 </div>
 
 <div align="right">
-  <img src="https://i.pinimg.com/originals/37/0f/52/370f526f0288d95e9c144f7155cabb72.gif"/>
+  <img src="https://i.pinimg.com/originals/37/0f/52/370f526f0288d95e9c144f7155cabb72.gif" height="35" alt="I'AM"/>
 </div>
 ###
 
