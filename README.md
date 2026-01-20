@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://i.pinimg.com/originals/37/0f/52/370f526f0288d95e9c144f7155cabb72.gif" height="150" alt="Work GIF">
+![Gif](assets/gif_logo.gif)
 ###
 
 <div align="left">
