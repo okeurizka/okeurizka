@@ -2,8 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/37/0f/52/370f526f0288d95e9c144f7155cabb72.gif"  />
-
+<img align="right" src="https://i.pinimg.com/originals/37/0f/52/370f526f0288d95e9c144f7155cabb72.gif" height="150" alt="Work GIF">
 ###
 
 <div align="left">
